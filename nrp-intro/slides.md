@@ -218,6 +218,7 @@ A **Pod** is the smallest deployable unit in Kubernetes.
 - Runs on a single compute node
 - Receives CPU and memory allocations
 - Ends when its process completes or the Pod is deleted
+- Pods on the NRP are limited to a 6 Hr runtime and will automatically be deleted once this time limit is reached
 
 <div class="mt-8 p-4 rounded bg-green-50 dark:bg-green-950">
 For this exercise, the Pod prints a message and sleeps long enough for us to inspect it.
@@ -454,6 +455,7 @@ Use Jobs for:
 - Simulations
 - Model training steps
 - Any finite batch workload
+- Jobs are limited to a 14 day runtime.
 
 <div class="mt-8 p-4 rounded bg-purple-50 dark:bg-purple-950">
 Unlike a standalone Pod, a Job records completion and can retry failed Pods.
