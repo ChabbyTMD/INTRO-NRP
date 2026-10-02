@@ -4,7 +4,9 @@ Sethurman Lab Meeting Technical Demo Oct,2 2026.
 
 Meeting recording:
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1hJK8taPneG3XYZnrcq650Bk9qIGe4RU4#list" width="100%" height="500" style="border:0;"></iframe>
+<video width="750" height="500" controls>
+  <source src="https://drive.google.com/embeddedfolderview?id=1hJK8taPneG3XYZnrcq650Bk9qIGe4RU4#list">
+</video>
 
 ## Overview
 
