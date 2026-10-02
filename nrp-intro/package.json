@@ -1,0 +1,17 @@
+{
+  "name": "nrp-intro",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^53.0.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-addon-liveshell": "^1.0.2",
+    "vue": "^3.5.33"
+  }
+}
