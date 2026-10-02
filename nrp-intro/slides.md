@@ -167,7 +167,7 @@ Before the hands-on exercises, confirm that you have:
 - Membership in at least one namespace
 - `kubectl` installed
 - The `kubelogin` plugin installed
-- A Kubernetes configuration file at `~/.kube/config` downloaded from NRP
+- A Kubernetes configuration file at `~/.kube/config` downloaded from NRP (Check the docs)
 
 
 </v-clicks>
