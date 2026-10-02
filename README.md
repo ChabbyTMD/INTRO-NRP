@@ -2,11 +2,7 @@
 
 Sethurman Lab Meeting Technical Demo Oct,2 2026.
 
-Meeting recording:
-
-<video width="750" height="500" controls>
-  <source src="https://drive.google.com/embeddedfolderview?id=1hJK8taPneG3XYZnrcq650Bk9qIGe4RU4#list">
-</video>
+Meeting recording: [▶ Watch on Google Drive](https://drive.google.com/drive/folders/1hJK8taPneG3XYZnrcq650Bk9qIGe4RU4)
 
 ## Overview
 
